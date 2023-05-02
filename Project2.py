@@ -36,4 +36,4 @@ else:
             time.sleep(1)
             print(results[2])
             break
-#Pull Request is open
+#the program is  written on windows powered visual studio code
